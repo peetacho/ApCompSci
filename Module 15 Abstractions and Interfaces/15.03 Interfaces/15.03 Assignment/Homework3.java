@@ -3,7 +3,7 @@
 
 */
 
-public abstract class Homework3 implements Processing{
+public abstract class Homework3 {
 
 	private int pagesRead, pagesLeft;
 	private String hwType;
