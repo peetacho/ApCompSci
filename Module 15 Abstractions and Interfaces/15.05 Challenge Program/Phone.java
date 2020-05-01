@@ -1,7 +1,10 @@
-/*
-
-
-*/
+ /**
+ * 
+ * An abstract class. Implements Product, an interface.
+ *
+ * @author Peter Chow
+ * @version 04/30/20
+ */
 
 public abstract class Phone implements Product{
 

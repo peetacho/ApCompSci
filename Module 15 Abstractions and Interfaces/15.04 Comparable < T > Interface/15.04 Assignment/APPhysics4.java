@@ -1,8 +1,11 @@
-/*
-
-
-*/
-
+ /**
+ * 
+ * Subclass that extends Homework, an abstract class.
+ *
+ * @author Peter Chow
+ * @version 04/30/20
+ */
+ 
 public class APPhysics4 extends Homework4{
 
 	private int pagesRead;

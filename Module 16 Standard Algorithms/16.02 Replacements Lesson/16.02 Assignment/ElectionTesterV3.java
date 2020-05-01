@@ -1,7 +1,9 @@
-/**
+ /**
+ * 
+ * Main method. Uses Array
  *
- * @author 
- * @version 
+ * @author Peter Chow
+ * @version 05/01/20
  */
 
 public class ElectionTesterV3

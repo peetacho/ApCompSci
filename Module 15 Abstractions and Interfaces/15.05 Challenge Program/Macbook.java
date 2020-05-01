@@ -1,7 +1,10 @@
-/*
-
-
-*/
+ /**
+ * 
+ * Subclass that extends Laptop, an abstract class.
+ *
+ * @author Peter Chow
+ * @version 04/30/20
+ */
 
 public class Macbook extends Laptop{
 

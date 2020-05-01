@@ -1,3 +1,10 @@
+ /**
+ * 
+ * Main method
+ *
+ * @author Peter Chow
+ * @version 04/30/20
+ */
 
 import java.util.ArrayList;
 

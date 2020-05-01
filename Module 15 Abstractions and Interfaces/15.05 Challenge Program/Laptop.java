@@ -1,7 +1,10 @@
-/*
-
-
-*/
+ /**
+ * 
+ * An abstract class that implements Product and Comparable
+ *
+ * @author Peter Chow
+ * @version 04/30/20
+ */
 
 public abstract class Laptop implements Product, Comparable<Laptop>{
 

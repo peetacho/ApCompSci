@@ -1,7 +1,10 @@
-/*
-
-
-*/
+ /**
+ * 
+ * Includes main method. This class uses objects as products and takes inventory of the products.
+ * it also compares the prices of two similar products.
+ * @author Peter Chow
+ * @version 04/30/20
+ */
 
 import java.util.*;
 

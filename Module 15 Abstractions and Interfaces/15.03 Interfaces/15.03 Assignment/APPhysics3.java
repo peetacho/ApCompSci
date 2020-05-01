@@ -1,7 +1,10 @@
-/*
-
-
-*/
+ /**
+ * 
+ * Subclass that extends Homework, an abstract class.
+ *
+ * @author Peter Chow
+ * @version 04/30/20
+ */
 
 public class APPhysics3 extends Homework3 implements Processing{
 

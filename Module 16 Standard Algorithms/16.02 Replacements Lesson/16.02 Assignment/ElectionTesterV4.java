@@ -1,8 +1,11 @@
-/**
+ /**
+ * 
+ * Main method. Uses Arraylist.
  *
- * @author 
- * @version 
+ * @author Peter Chow
+ * @version 05/01/20
  */
+
 import java.util.*;
 public class ElectionTesterV4
 {

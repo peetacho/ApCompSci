@@ -1,7 +1,10 @@
-/*
-
-
-*/
+ /**
+ * 
+ * Interface class Product. Includes abstract methods getName() and getCost().
+ *
+ * @author Peter Chow
+ * @version 04/30/20
+ */
 
 public interface Product{
 
