@@ -1,6 +1,6 @@
 
 /**
- * Purpose:
+ * Purpose: Uses an insertion sorting algorithm to sort Movie objects by title, studio, and year.
  *
  * @author Peter Chow
  * @version 05/03/20
