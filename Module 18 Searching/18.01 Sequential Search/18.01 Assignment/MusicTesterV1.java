@@ -2,8 +2,8 @@
 /**
  * Purpose:
  *
- * @author (enter your name)
- * @version (enter today's date)
+ * @author Peter Chow
+ * @version 05/04/20
  *
  */
 public class MusicTesterV1{
