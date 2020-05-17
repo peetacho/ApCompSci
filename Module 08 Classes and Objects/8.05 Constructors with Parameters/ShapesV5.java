@@ -14,12 +14,12 @@ public class ShapesV5
     private int mySide1, mySide2;
 
     //default constructor
-    /*
+    
     public ShapesV5()
     {
         
     }
-    */
+    
 
     //constructor with two parameters
     public ShapesV5 (int s1, int s2)

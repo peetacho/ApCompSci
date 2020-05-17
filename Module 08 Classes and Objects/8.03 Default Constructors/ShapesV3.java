@@ -10,10 +10,7 @@
  */
 public class ShapesV3
 {
-    //default constructor
-    public ShapesV3()
-    {
-    }
+
 
     //calculate area of a triangle
     public double calcTriArea(int s1, int s2)
